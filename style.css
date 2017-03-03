@@ -1,0 +1,4 @@
+/*Removes default on the body-tag*/
+body{
+    margin:0;
+}
